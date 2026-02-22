@@ -36,7 +36,7 @@ For development efficiency, a reduced sample of the dataset was used. The analyt
 
 **Approval Rate**
 
-```DAX
+DAX
 Approval Rate = 
 VAR ApprovedCount =
     CALCULATE(
@@ -53,7 +53,7 @@ IF(
     BLANK(),
     DIVIDE(ApprovedCount, TotalCount)
 )
-```
+
 
 **Portfolio Risk Exposure**
 
@@ -63,7 +63,7 @@ Clients are classified as higher risk if:
 * Debt-to-Income Ratio > 40%
 * Previous Defaults exist
 
-```DAX
+DAX
 Risk Flag =
 IF(
     VALUE(Table1[credit_score]) < 600
@@ -72,9 +72,8 @@ IF(
     1,
     0
 )
-```
 
-```DAX
+DAX
 Portfolio Risk Exposure % =
 DIVIDE(
     CALCULATE(COUNTROWS(Table1), Table1[Risk Flag] = 1),
