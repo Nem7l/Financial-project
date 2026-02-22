@@ -120,7 +120,10 @@ Filters allow dynamic exploration of segments.
 
 ## Deliverables
 
-* Power BI dashboard (online): 
-* Dashboard screenshots : <img width="1100" height="665" alt="loan dashboard " src="https://github.com/user-attachments/assets/90b58256-9efb-4ef7-a193-931c3d745aa7" />
+* Tableau (online): 
+* Dashboard screenshots : 
 * Wireframe (Figma) : https://www.figma.com/design/9OwpL9jNxmqVYo5SKe2WpF/sketch-loan-dashboard?node-id=0-1&t=HjXlNn9VVuTH2FWo-1
 
+note:  The analysis was originally developed in Power BI; however, due to public publishing restrictions requiring organizational credentials, the dashboard was rebuilt from scratch in Tableau Public to ensure full online accessibility without login.
+
+For reference, a short Power BI demo version is also included in the repositery
