@@ -122,9 +122,15 @@ Filters allow dynamic exploration of segments.
 
 * Tableau (online): https://public.tableau.com/views/loandashboardfinal/Template?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-* Dashboard screenshots : 
+## 🎨 Dashboard Sketch
 
-* Wireframe (Figma) : https://www.figma.com/design/9OwpL9jNxmqVYo5SKe2WpF/sketch-loan-dashboard?node-id=0-1&t=HjXlNn9VVuTH2FWo-1
+<img src="sketch loan.png" width="900">
+
+---
+
+## 📊  Dashboard
+
+<img src="dashboard final.png" width="1000">
 
 note:  The analysis was originally developed in Power BI; however, due to public publishing restrictions requiring organizational credentials, the dashboard was rebuilt from scratch in Tableau Public to ensure full online accessibility without login.
 
