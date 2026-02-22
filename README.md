@@ -121,7 +121,8 @@ Filters allow dynamic exploration of segments.
 ## Deliverables
 
 * Tableau (online): https://public.tableau.com/views/loandashboardfinal/Template?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-* Dashboard screenshots : <img width="1328" height="911" alt="image" src="https://github.com/user-attachments/assets/386947b7-9c96-4907-b3e2-21625af2fe11" />
+
+* Dashboard screenshots : 
 
 * Wireframe (Figma) : https://www.figma.com/design/9OwpL9jNxmqVYo5SKe2WpF/sketch-loan-dashboard?node-id=0-1&t=HjXlNn9VVuTH2FWo-1
 
