@@ -124,14 +124,12 @@ Filters allow dynamic exploration of segments.
 
 ## 🎨 Dashboard Sketch
 
-![Sketch](sketch-loan.png)
+(sketch-loan.png)
 
 ## 📊 Final Dashboard
 
-![Final](dashboard-final.png)
+(dashboard-final.png)
 
-![Sketch](./sketch-loan.png)
-![Final](./dashboard-final.png)
 
 
 note:  The analysis was originally developed in Power BI; however, due to public publishing restrictions requiring organizational credentials, the dashboard was rebuilt from scratch in Tableau Public to ensure full online accessibility without login.
